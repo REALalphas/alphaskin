@@ -5,5 +5,4 @@
 ### [Download (Yandex Disk)](https://yadi.sk/d/cV8V5wg9GtumYg)
 ### [Download (Github)](https://github.com/AlphaS-code/alphaskin/releases/)
 
-## Benefits
-   - ***Good cursor***
+![](https://i.imgur.com/n3XeZWp.png)
