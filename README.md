@@ -1,6 +1,11 @@
 ![](https://i.imgur.com/4qKuXrq.png)
 
-### [Download (Google Drive)](https://drive.google.com/drive/folders/1JgpcMZpYY0LycBnirN36lak__r-C4kSa)
-### [Download (Dropbox)](https://www.dropbox.com/sh/igx46yplm8up4tz/AAD8Yrcx-vkm4UktUAIv0UDwa)
-### [Download (Yandex Disk)](https://yadi.sk/d/cV8V5wg9GtumYg)
-### [Download (Github)](https://github.com/AlphaS-code/alphaskin/releases/)
+## Теперь у нас есть релизная версия:
+### [Скачать (s-ul)](https://garrys.s-ul.eu/alphaskin/HMjpUzjO)
+### [Скачать (Google Drive)](https://drive.google.com/open?id=1p-ljAzsiZJHtQ_UbrFTcmE6JZITrrZrz)
+### [Скачать (Dropbox)](https://www.dropbox.com/s/uu1i8wvhpo8e34s/AlphaSkin.osk)
+### [Скачать (Yandex Disk)](https://yadi.sk/d/v61_OMyciVotYQ)
+### [Скачать (Github)](https://github.com/AlphaS-code/alphaskin/releases/download/10/AlphaSkin.osk)
+
+#### *А вот старые версии ("Release" последняя):*
+##### [*Github releases*](https://github.com/AlphaS-code/alphaskin/releases)
